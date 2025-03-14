@@ -130,7 +130,7 @@ O supervisor sintetizado possui 84 estados e 212 eventos.
   <img src="./imagens/supervisorio.png" alt="supervisorio"/>
 </p>
 
-### Verificação de controlabilidade e não bloquebilidade do supervisor
+### Verificação de controlabilidade e não bloqueabilidade do supervisor
 
 <p align="center">
   <img src="./imagens/verificacao.png" alt="verificacao"/>
