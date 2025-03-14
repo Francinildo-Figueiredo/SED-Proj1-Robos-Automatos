@@ -136,6 +136,6 @@ O supervisor sintetizado possui 84 estados e 212 eventos.
   <img src="./imagens/verificacao.png" alt="verificacao"/>
 </p>
 
-Vídeo do Youtube: (https://youtu.be/iXAAy7FvzKo)
+Vídeo do Youtube com a explicação do projeto: (https://youtu.be/iXAAy7FvzKo)
 
 
