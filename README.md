@@ -60,7 +60,7 @@ e M4.
 - *request_Mx*: Uma solicitação de transporte surge para a máquina Mx (R1 ou R2 são requisitados);
 - *request_R3Mx*: Uma solicitação de transporte surge para a máquina Mx (R3 é solicitado substituindo R1 ou R2);
 - *robot_faultRiMx*: O robô Ri apresenta falha no transporte para a máquina Mx;
-- *delivery_faultRiMx: A máquina Mx detectou um falha na entrega de uma caixa pelo robô Ri;
+- *delivery_faultRiMx*: A máquina Mx detectou um falha na entrega de uma caixa pelo robô Ri;
 - *robot_resetRi*: Robô Ri voltou a funcionar normalmente.
 
 ## Autômatos Modelados
