@@ -113,19 +113,13 @@ e M4.
   <img src="./imagens/simulacao.png" alt="simulacao"/>
 </p>
 
-### Analizador
+### Analizador e supervisor sintetizado
 
 <p align="center">
   <img src="./imagens/analizador.png" alt="analizador"/>
 </p>
 
-O supervisor sintetizado possui 84 estados e 212 eventos.
-
-### Supervisor sintetizado
-
-<p align="center">
-  <img src="./imagens/supervisorio.png" alt="supervisorio"/>
-</p>
+O supervisor sintetizado possui 147 estados e 434 eventos.
 
 ### Verificação de controlabilidade e não bloqueabilidade do supervisor
 
