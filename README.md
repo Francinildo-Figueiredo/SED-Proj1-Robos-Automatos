@@ -40,12 +40,11 @@ insumos às máquinas.
 entregá-los às máquinas.
 
 ### Regras do operacionais
-1. *Rotas dos robôs*\
-  a. R1: Transporta caixas do Buffer de Entrada (BE) para as máquinas M1 
-e M2.
-  b. R2: Transporta caixas do Buffer de Entrada (BE) para as máquinas M3 
-e M4.
-  c. R3: substitui R1 ou R2 em caso de falha.
+1. R1: Transporta caixas do Buffer de Entrada (BE) para as máquinas M1 
+e M2;
+2. R2: Transporta caixas do Buffer de Entrada (BE) para as máquinas M3 
+e M4.;
+3. R3: substitui R1 ou R2 em caso de falha.
 
 ## Eventos
 
