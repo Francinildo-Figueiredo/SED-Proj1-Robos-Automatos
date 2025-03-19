@@ -57,14 +57,11 @@ e M4.
 
 ### Eventos não controláveis
 
-- *request_M12*: Solicita que o robô R1 pegue uma caixa em BE;
-- *request_M34*: Solicita que o robô R2 pegue uma caixa em BE;
-- *request_R3M12*: Solicita que o robô R3 (quando substituindo R1) peque uma caixa em BE;
-- *request_R3M34*: Solicita que o robô R3 (quando substituindo R2) peque uma caixa em BE;
-- *robot_faultR1*: Indica uma falha robô R1;
-- *robot_faultR2*: Indica uma falha robô R2;
-- *robot_resetR1*: Robô R1 voltou a funcionar normalmente;
-- *robot_resetR2*: Robô R2 voltou a funcionar normalmente.
+- *request_Mx*: Uma solicitação de transporte surge para a máquina Mx (R1 ou R2 são requisitados);
+- *request_R3Mx*: Uma solicitação de transporte surge para a máquina Mx (R3 é solicitado substituindo R1 ou R2);
+- *robot_faultRiMx*: O robô Ri apresenta falha no transporte para a máquina Mx;
+- *delivery_faultRiMx: A máquina Mx detectou um falha na entrega de uma caixa pelo robô Ri;
+- *robot_resetRi*: Robô Ri voltou a funcionar normalmente.
 
 ## Autômatos Modelados
 
