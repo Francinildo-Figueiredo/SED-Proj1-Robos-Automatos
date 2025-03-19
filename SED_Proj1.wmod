@@ -399,7 +399,7 @@
 </LabelGeometry>
 </LabelBlock>
 <SplineGeometry>
-<Point X="312" Y="77"/>
+<Point X="309" Y="74"/>
 </SplineGeometry>
 </Edge>
 <Edge Source="S5" Target="S0">
@@ -418,7 +418,7 @@
 <SimpleIdentifier Name="robot_resetR2"/>
 </LabelBlock>
 <SplineGeometry>
-<Point X="329" Y="362"/>
+<Point X="347" Y="351"/>
 </SplineGeometry>
 </Edge>
 <Edge Source="S0" Target="S1">
@@ -483,7 +483,7 @@
 </SimpleNode>
 <SimpleNode Name="S2">
 <PointGeometry>
-<Point X="368" Y="240"/>
+<Point X="368" Y="256"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -507,7 +507,7 @@
 </SimpleNode>
 <SimpleNode Name="S5">
 <PointGeometry>
-<Point X="480" Y="240"/>
+<Point X="480" Y="256"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -515,7 +515,7 @@
 </SimpleNode>
 <SimpleNode Name="S6">
 <PointGeometry>
-<Point X="480" Y="336"/>
+<Point X="480" Y="352"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -539,7 +539,7 @@
 </SimpleNode>
 <SimpleNode Name="S9">
 <PointGeometry>
-<Point X="576" Y="240"/>
+<Point X="576" Y="256"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -547,7 +547,7 @@
 </SimpleNode>
 <SimpleNode Name="S10">
 <PointGeometry>
-<Point X="576" Y="336"/>
+<Point X="576" Y="352"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -563,7 +563,7 @@
 </SimpleNode>
 <SimpleNode Name="S12">
 <PointGeometry>
-<Point X="256" Y="288"/>
+<Point X="256" Y="304"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -579,7 +579,7 @@
 </SimpleNode>
 <SimpleNode Name="S14">
 <PointGeometry>
-<Point X="368" Y="336"/>
+<Point X="368" Y="352"/>
 </PointGeometry>
 <LabelGeometry Anchor="NW">
 <Point X="0" Y="10"/>
@@ -657,10 +657,10 @@
 </LabelGeometry>
 </LabelBlock>
 <SplineGeometry>
-<Point X="385" Y="381"/>
+<Point X="385" Y="397"/>
 </SplineGeometry>
 <EndPointGeometry>
-<Point X="256" Y="288"/>
+<Point X="256" Y="304"/>
 </EndPointGeometry>
 </Edge>
 <Edge Source="S8" Target="S11">
@@ -685,10 +685,10 @@
 </LabelGeometry>
 </LabelBlock>
 <SplineGeometry>
-<Point X="396" Y="203"/>
+<Point X="392" Y="211"/>
 </SplineGeometry>
 <EndPointGeometry>
-<Point X="256" Y="288"/>
+<Point X="256" Y="304"/>
 </EndPointGeometry>
 </Edge>
 <Edge Source="S0" Target="S11">
@@ -775,7 +775,7 @@
 </LabelGeometry>
 </LabelBlock>
 <SplineGeometry>
-<Point X="188" Y="269"/>
+<Point X="190" Y="274"/>
 </SplineGeometry>
 </Edge>
 <Edge Source="S12" Target="S0">
@@ -786,7 +786,7 @@
 </LabelGeometry>
 </LabelBlock>
 <SplineGeometry>
-<Point X="209" Y="235"/>
+<Point X="208" Y="245"/>
 </SplineGeometry>
 </Edge>
 </EdgeList>
